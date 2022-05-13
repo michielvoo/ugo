@@ -1,0 +1,10 @@
+name = "Ugo"
+description = "Theme for single-author, personal websites built with Hugo"
+demosite = "https://michielvoo.net/projects/ugo"
+homepage = "https://github.com/michielvoo/ugo"
+license = "MIT"
+licenselink = "https://raw.githubusercontent.com/michielvoo/ugo/main/License.txt"
+
+[author]
+name = "Michiel van Oosterhout"
+homepage = "https://michielvoo.net"
